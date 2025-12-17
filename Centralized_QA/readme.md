@@ -59,7 +59,7 @@ python evaluate.py
 Expected performance on MetaQA:
 - **Hits@1**: 70-85%
 - **Hits@10**: 90-95%
-- **MRR**: 75-88%
+
 
 ## Configuration
 
