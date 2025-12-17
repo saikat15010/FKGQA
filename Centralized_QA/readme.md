@@ -38,6 +38,9 @@ When was [Fight Club] released?	1999
 ```
 
 **Dataset Recommendation:** Use [MetaQA](https://github.com/yuyuz/MetaQA) (movie domain QA dataset)
+```
+I have used the 1-hop QA dataset
+```
 
 ## Usage
 ```bash
@@ -96,13 +99,3 @@ batch_size = 16    # Batch size
 - PyTorch >= 2.0
 - Transformers >= 4.30
 - NumPy, tqdm
-
-## Citation
-
-Based on:
-- **DistMult**: Yang et al. (2015) - [Embedding Entities and Relations for Learning and Inference in Knowledge Bases](https://arxiv.org/abs/1412.6575)
-- **RoBERTa**: Liu et al. (2019) - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)
-
-## License
-
-MIT License
